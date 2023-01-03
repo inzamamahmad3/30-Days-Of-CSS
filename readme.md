@@ -4,7 +4,7 @@ A Project base learning of HTML and CSS. Refreshing practice for senior develope
 
 ## Authors
 
-- [@Inzamam Ahmad](https://www.github.com/inzamamahmad3)
+- [Inzamam Ahmad](https://www.github.com/inzamamahmad3)
 
 ## Day 1
 
@@ -12,11 +12,11 @@ A Project base learning of HTML and CSS. Refreshing practice for senior develope
 
 ## 🛠 Skills
 
-HTML, CSS...
+HTML, CSS
 
 ## Badges
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
+Add badges from somewhere like:
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
